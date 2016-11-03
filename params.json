@@ -1,0 +1,6 @@
+{
+  "name": "Sms-management-system-v1.0",
+  "tagline": "SMS Management System V-1.0",
+  "body": "# SMS-Management-System-V-1.0-Beta\r\n![](http://www.outcomy.com/wp-content/uploads/2015/11/SMSCollage1.png)\r\nThis **SMS Management System** is an multipurpose way to create an SMS gateway to handle various SMS APIs from **Twilio** , **Send Grid** ,** Plivo** etc . Create **SMS Packages** , **SMS availability** , **Bulk SMS** , **Pricing **, **Rest APIs** and many more features are included on it . Payment gateways like **BrainTree**, **Paypal **, **Worldline **, **Stripe **, **Authorize.Net** and **2Checkout** are integrated .\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
